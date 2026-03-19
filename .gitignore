@@ -40,7 +40,7 @@ yarn-error.*
 /ios
 /android
 
-# Gas Town runtime
+# Gas Town
 .beads/
-.runtime/
 .claude/
+.runtime/
